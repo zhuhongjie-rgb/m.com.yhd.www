@@ -1,0 +1,164 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #A80226;
+}
+
+header {
+    width: 100%;
+    height: 60px;
+    background-color: #EFE7E9;
+    overflow: hidden;
+}
+
+header img {
+    width: 60px;
+    height: 60px;
+    float: left;
+}
+
+.wenzi {
+    float: left;
+    width: 110px;
+    height: 40px;
+    margin-top: 10px;
+}
+
+.wenzi span:first-child {
+    color: #6A4043;
+}
+
+.wenzi span:last-child {
+    color: #846366;
+    font-size: 12px;
+}
+
+.right {
+    float: right;
+    width: 90px;
+    height: 60px;
+    background-color: #F32C38;
+}
+
+.right span {
+    color: #FDDCDE;
+    line-height: 60px;
+    padding-left: 17%;
+}
+
+.daohang {
+    height: 40px;
+    background-color: #ffffff;
+}
+
+.daohang span {
+    font-size: 18px;
+    margin-right: 97px;
+}
+
+.daohang span:first-child {
+    color: #FF6B6B;
+    font-size: 31px;
+}
+
+.daohang span:last-child {
+    color: #FF6B6B;
+    margin: 0;
+    font-size: 31px;
+}
+
+.tupian {
+    width: 100%;
+}
+
+.tupian img {
+    width: 100%;
+}
+
+.huodongjiesao {
+    width: 100%;
+}
+
+.huodongjiesao span {
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-right: 22px;
+}
+
+.huodongjiesao span:last-child {
+    margin: 0px;
+}
+
+.guanggao {
+    margin-top: 15px;
+    width: 100%;
+}
+
+.guanggao img {
+    width: 100%;
+}
+
+.fuli {
+    width: 100%;
+}
+
+.fuli img {
+    width: 100%;
+}
+
+.fenlei {
+    width: 100%;
+}
+
+.fenlei span {
+    color: #FFFFFF;
+    margin-right: 40px;
+}
+
+.fenlei span:first-child {
+    padding: 20px;
+    border-bottom: 2px solid #ffffff;
+}
+
+.fenlei span:last-child {
+    margin: 0;
+}
+
+.shangpin {
+    margin-top: 25px;
+    width: 100%;
+}
+
+.shangpin a {
+    float: left;
+    width: 32%;
+    background-color: #FFFFFF;
+    margin-right: 5px;
+    margin-bottom: 2px;
+    text-decoration: none;
+}
+
+.shangpin img {
+    width: 90%;
+}
+
+.shangpin p {
+    font-size: 13px;
+    font-weight: normal;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    margin-right: 10px;
+    color: #888888;
+}
+
+.shangpin span {
+    color: red;
+}
+
+.shangpin span:last-child {
+    float: right;
+    margin-right: 10px;
+}

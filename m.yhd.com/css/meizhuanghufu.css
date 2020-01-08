@@ -1,0 +1,206 @@
+html,
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    width: 100%;
+    height: 60px;
+    background-color: #EFE7E9;
+    overflow: hidden;
+}
+
+header img {
+    width: 60px;
+    height: 60px;
+    float: left;
+}
+
+.wenzi {
+    float: left;
+    width: 110px;
+    height: 40px;
+    margin-top: 10px;
+}
+
+.wenzi span:first-child {
+    color: #6A4043;
+}
+
+.wenzi span:last-child {
+    color: #846366;
+    font-size: 12px;
+}
+
+.right {
+    float: right;
+    width: 90px;
+    height: 60px;
+    background-color: #F32C38;
+}
+
+.right span {
+    color: #FDDCDE;
+    line-height: 60px;
+    padding-left: 17%;
+}
+
+.daohang {
+    height: 40px;
+    background-color: #ffffff;
+}
+
+.daohang span {
+    font-size: 18px;
+    margin-right: 115px;
+}
+
+.daohang span:first-child {
+    color: #FF6B6B;
+    font-size: 31px;
+}
+
+.daohang span:last-child {
+    color: #FF6B6B;
+    margin: 0;
+    font-size: 31px;
+}
+
+.lunbotu {
+    width: 100%;
+}
+
+.lunbotu img {
+    width: 100%;
+}
+
+.guanggao {
+    width: 100%;
+}
+
+.guanggao img {
+    width: 100%;
+}
+
+.shangpin {
+    margin-top: 10px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.shangpin img {
+    width: 100%;
+}
+
+.shangpin p {
+    font-size: 13px;
+    color: #000000;
+    font-weight: normal;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+}
+
+.shangpin a {
+    float: left;
+    width: 25%;
+    text-decoration: none;
+    background-color: #F5F5F5;
+}
+
+.shangpin span {
+    color: red;
+}
+
+.shangpin span:last-child {
+    float: right;
+    color: #ffffff;
+    background-color: #F95F20;
+    border-radius: 20px;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+.fenlei {
+    width: 100%;
+}
+
+.fenlei span {
+    margin-right: 20px;
+}
+
+.fenlei span:first-child {
+    color: red;
+    border-bottom: 3px solid red;
+    padding: 10px;
+}
+
+.jiesao {
+    width: 100%;
+    margin-top: 15px;
+    background-color: #F5F5F5;
+    height: 60px;
+}
+
+.jiesao span {
+    line-height: 60px;
+    padding: 10px;
+    background-color: #ffffff;
+    border-radius: 16px;
+    margin-right: 5px;
+}
+
+.jiesao span:first-child {
+    margin-left: 5px;
+    color: #ffffff;
+    background-color: #ABABAB;
+}
+
+.shaungfushui {
+    width: 100%;
+    overflow: hidden;
+}
+
+.shaungfushui a {
+    float: left;
+    width: 50%;
+    text-decoration: none;
+}
+
+.shaungfushui img {
+    width: 100%;
+}
+
+.shaungfushui p {
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    line-height: 1.3;
+    -o-text-overflow: -o-ellipsis-lastline;
+    text-overflow: -o-ellipsis-lastline;
+    overflow: hidden;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    word-break: break-all;
+    white-space: normal;
+    color: #000;
+    margin-bottom: 10px;
+}
+
+.shaungfushui span {
+    color: red;
+}
+
+.shaungfushui span:last-child {
+    float: right;
+    border: 1px solid red;
+    border-radius: 5px;
+    margin-right: 20px;
+}

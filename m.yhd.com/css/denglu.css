@@ -1,0 +1,155 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #f6f6f6;
+}
+
+header {
+    height: 60px;
+    background-color: #EFE7E9;
+    overflow: hidden;
+}
+
+
+header img {
+    width: 60px;
+    height: 60px;
+    float: left;
+}
+
+.wenzi {
+    float: left;
+    width: 110px;
+    height: 40px;
+    margin-top: 10px;
+}
+
+.wenzi span:first-child {
+    color: #6A4043;
+}
+
+.wenzi span:last-child {
+    color: #846366;
+    font-size: 12px;
+}
+
+.right {
+    float: right;
+    width: 90px;
+    height: 60px;
+    background-color: #F32C38;
+}
+
+.right span {
+    color: #FDDCDE;
+    line-height: 60px;
+    padding-left: 17%;
+}
+
+.daohang {
+    width: 100%;
+    height: 40px;
+    background-color: #FFFFFF;
+}
+
+.daohang span {
+    font-size: 18px;
+    line-height: 40px;
+    margin-right: 106px;
+    color: #000000;
+}
+
+.daohang span:first-child {
+    color: #FF7575;
+    width: 20%;
+}
+
+.daohang button {
+    width: 20%;
+    float: right;
+}
+
+.mima {
+    margin-top: 40px;
+    width: 100%;
+    height: 91px;
+    background-color: #FFFFFF;
+}
+
+.mima span {
+    margin-left: 45px;
+    font-size: 24px;
+    line-height: 40px;
+}
+
+.mima input {
+    width: 78%;
+    height: 40px;
+    border: none;
+}
+
+.wangjimima {
+    margin: 20px;
+}
+
+.wangjimima input {
+    margin-left: 30px;
+}
+
+.wangjimima span {
+    margin-right: 70px;
+}
+
+.wangjimima a {
+    text-decoration: none;
+    color: #49BBFC;
+}
+
+.denglu {
+    margin-left: 50px;
+    width: 70%;
+    height: 40px;
+    text-align: center;
+    background-color: red;
+    line-height: 40px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.denglu span {
+    color: #FFFFFF;
+}
+
+.duanxin {
+    text-align: center;
+    color: #49BBFC;
+    margin-bottom: 30px;
+}
+
+.hezuohuoban h4 {
+    height: 10px;
+    border-bottom: 1px solid #d9d9d9;
+    text-align: center;
+    color: #8F8F8F;
+}
+
+.hezuohuoban p span {
+    font-size: 33px;
+    margin-left: 40px;
+}
+
+.hezuohuoban span:first-child {
+    color: red;
+}
+
+.hezuohuoban span:nth-child(2) {
+    color: #10A8FF;
+}
+
+.hezuohuoban span:nth-child(3) {
+    color: #C81825;
+}
+
+.hezuohuoban span:last-child {
+    color: #D5D5D5;
+}

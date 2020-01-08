@@ -1,0 +1,95 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #F6F6F6;
+}
+
+header {
+    height: 40px;
+    background-color: #ffffff;
+}
+
+header span {
+    font-size: 20px;
+    margin-right: 120px;
+    color: #999999;
+}
+
+header span:first-child {
+    color: #FF6B6B;
+    font-size: 31px;
+}
+
+header span:last-child {
+    color: #FF6B6B;
+    margin: 0;
+    font-size: 31px;
+}
+
+.denglu {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.denglu img {
+    width: 160px;
+    height: 160px;
+}
+
+.denglu a {
+    display: inline-block;
+    font-size: 23px;
+    width: 138px;
+    height: 42px;
+    background-color: #fff;
+    border: 1px solid #bdbdbd;
+    border-radius: 4px;
+    color: #9a9a9a;
+    line-height: 42px;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+.denglu a:last-child {
+    display: inline-block;
+    font-size: 23px;
+    width: 138px;
+    height: 42px;
+    background-color: #fff;
+    border: 1px solid #bdbdbd;
+    border-radius: 4px;
+    background-color: #FF3C25;
+    color: #fff;
+    line-height: 42px;
+    margin-right: 15px;
+}
+
+.cainixihuan {
+    width: 100%;
+    overflow: hidden;
+}
+
+.cainixihuan a {
+    float: left;
+    width: 50%;
+    text-decoration: none;
+}
+
+.cainixihuan img {
+    width: 100%;
+}
+
+.cainixihuan p {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 16px;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    color: #212121;
+}
+
+.cainixihuan span {
+    color: #FF3C25;
+}
