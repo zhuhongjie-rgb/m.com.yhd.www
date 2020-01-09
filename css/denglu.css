@@ -65,8 +65,9 @@ header img {
 }
 
 .daohang button {
-    width: 20%;
+    width: 15%;
     float: right;
+    margin-top: 10px;
 }
 
 .mima {
